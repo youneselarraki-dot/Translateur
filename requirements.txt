@@ -1,0 +1,12 @@
+streamlit
+easyocr
+opencv-python-headless
+langdetect
+language-tool-python
+pygame
+nltk
+transformers
+torch
+sentencepiece
+gtts
+googletrans==4.0.0-rc1
